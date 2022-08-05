@@ -21,3 +21,4 @@ print("Hello, World")
 ```
 Then in the terminal navigate to the directory, then type python3 hellowworld.py \
 ![Your first time running python code!](/media/firstcommand.png)
+4. Done! Now continue onto lesson 2
